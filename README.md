@@ -40,7 +40,7 @@ The best model (based on F1-score) is automatically selected and saved.
 1. Create and activate a virtual environment (recommended):
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: .\venv\Scripts\Activate
 ```
 
 2. Install required packages:
