@@ -62,7 +62,7 @@ nltk.download('stopwords')
 ### Step 1: Activate Virtual Environment (if not already activated)
 
 ```bash
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: .\venv\Scripts\Activate
 ```
 
 Or use the quick activation script:
